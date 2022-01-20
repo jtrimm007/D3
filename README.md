@@ -18,6 +18,10 @@
 ## attr functions
 .attr("cx", (d, i) => {})
 
+## Axis generation
+![image](https://user-images.githubusercontent.com/16611773/150421824-6ec5e2dc-9e95-4973-813a-898499927212.png)
+
+
 ## Scaling a framed area
 * Domain and range
 ![image](https://user-images.githubusercontent.com/16611773/150375719-47afe317-8553-4387-9601-6490cd386188.png)
