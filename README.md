@@ -20,6 +20,9 @@
 
 ## Axis generation
 ![image](https://user-images.githubusercontent.com/16611773/150421824-6ec5e2dc-9e95-4973-813a-898499927212.png)
+![image](https://user-images.githubusercontent.com/16611773/150422082-f3989c76-055d-4c33-b186-547ef53f0d2b.png)
+![image](https://user-images.githubusercontent.com/16611773/150422162-728d5b18-03c9-4876-b43a-4819cc54af0e.png)
+
 
 
 ## Scaling a framed area
