@@ -1,5 +1,8 @@
 # D3
  Practice with data visulization
+ 
+ ## Instructor Repo
+ https://github.com/adamjanes/udemy-d3
 
  ## npm packages
  [http-server](https://www.npmjs.com/package/http-server)
